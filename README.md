@@ -14,7 +14,7 @@ In questo progetto ho realizzato una dashboard interattiva con Excel per analizz
 - Excel (tabelle pivot, grafici dinamici, segmentazioni);
 - Dataset simulato;
 ## 📁 File presenti
-- `Dashboard_Analisi_Vendite.xlsx` → File Excel con analisi e dashboard;
+- `DASHBOARD_Analisi_Vendite.xlsx` → File Excel con analisi e dashboard;
 
 📥 Se vuoi vedere la dashboard o fornirmi un feedback, scrivimi su LinkedIn!
 
