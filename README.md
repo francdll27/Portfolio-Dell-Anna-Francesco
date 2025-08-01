@@ -1,7 +1,9 @@
 # Portfolio-Dell-Anna-Francesco
 Raccolta progetti in Excel, SQL, Tableau e R
+
 link profilo Linkedin: 'www.linkedin.com/in/francesco-dellanna-fda'
 
+---
 # DASHBOARD_Analisi_Vendite.xlsx 📊
 In questo progetto ho realizzato una dashboard interattiva con Excel per analizzare le vendite trimestrali di una catena distributiva fittizia, i dati sono presi da un dataset immaginario creato attraverso l'utilizzo dell'intelligenza artificiale.
 ## Obiettivi 🎯
@@ -12,6 +14,8 @@ In questo progetto ho realizzato una dashboard interattiva con Excel per analizz
 - Excel (tabelle pivot, grafici dinamici, segmentazioni);
 - Dataset simulato;
 ## 📁 File presenti
-- `Dashboard_Analisi_Vendite.xlsx` → File Excel con analisi e dashboard
----
+- `Dashboard_Analisi_Vendite.xlsx` → File Excel con analisi e dashboard;
+
 📥 Se vuoi vedere la dashboard o fornirmi un feedback, scrivimi su LinkedIn!
+
+---
