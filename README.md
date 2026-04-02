@@ -4,6 +4,23 @@ Raccolta progetti in Excel, SQL, Tableau e R
 link profilo Linkedin: 'www.linkedin.com/in/francesco-dellanna-fda'
 
 ---
+
+# Pricing di Opzioni su FCOJ: confronto tra Black-76 e simulazione Monte Carlo 📈🎲 <sub>(R markdown)</sub>
+Il progetto che segue è stato creato in occasione di un esame universitario, svolto durante la magistrale in Finanza (LM16), denominato _"Metodi stocastici per l'economia e la finanza"_ .
+L'elaborato vuole verificare la capacità del metodo Monte Carlo di convergere al valore teorico, calcolato mediante la formula di Black-76, all’aumentare del numero di simulazioni 𝑀, confermando anche la Legge dei Grandi Numeri, ed infine adattanto il tutto ad uno scenario rappresentato da un film iconico delle vacanze natalizie, ovvero: __“Una poltrona per due”__.
+## Obiettivi 🎯
+Determinare il Fair Value di un’Opzione Put Europea sottoscritta su un contratto Future del FCOJ, adottando un approccio ibrido diviso in due fasi: 
+- Una prima fase nella quale viene stimato un modello sulle condizioni di mercato reali ed utilizzando due approcci distinti di pricing, uno più analitico basato sulla formula chiusa di Black-76, e un approccio numerico come il metodo Monte Carlo;
+- Nella seconda fase, il modello viene sottoposto a uno “stress test” qualitativo ispirato alla scena finale del film “Una poltrona per due” che rappresenta un caso di shock informativo. Si simula l’impatto di un evento macroeconomico estremo (rilascio del crop report) per osservare come il modello di pricing reagisce a condizioni di “Panic Selling” o crolli improvvisi del sottostante.
+## Strumenti utilizzati 🔧
+- R markdown;
+## 📁 File presenti
+- `FCOJ_project.html` → File html
+
+📥 Se vuoi vedere il progetto o fornirmi un feedback, scrivimi su LinkedIn!
+
+---
+
 # DASHBOARD_Analisi_Vendite.xlsx 📊
 In questo progetto ho realizzato una dashboard interattiva con Excel per analizzare le vendite trimestrali di una catena distributiva fittizia, i dati sono presi da un dataset immaginario creato attraverso l'utilizzo dell'intelligenza artificiale.
 ## Obiettivi 🎯
